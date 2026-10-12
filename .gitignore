@@ -1,0 +1,4 @@
+data/
+bert_nyt/
+__pycache__/
+*.zip
